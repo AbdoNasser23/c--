@@ -2,6 +2,7 @@
 #include "calculate.h"
 using namespace std;
 int main(){
+    //This is calculator
     calculate x;
     cout<<x.add("Abdo","Nasser")<<endl;//Abdo Nasser
     cout<<x.add(5.5,5.5)<<endl;//11
